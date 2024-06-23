@@ -30,7 +30,25 @@ const quiz = [
       ans4text: "himself",
       answer: "he",
 
-  }
+  },
+  {
+    question: "Next month,the Bewton city government will be constructing___third public library in front of the post office.",
+    ans1text: "they",
+    ans2text: "their",
+    ans3text: "its",
+    ans4text: "itself",
+    answer: "its",
+}
+,
+{
+    question:"Ms.Sue told the students that if their height is greater than___,they can sign up for the basketball competition.",
+    ans1text:"she",
+    ans2text:"herself",
+    ans3text:"her",
+    ans4text:"hers",
+    answer:"hers",
+}
+
 ]
 const question = document.getElementById("quiz-question");
 console.log(question);
